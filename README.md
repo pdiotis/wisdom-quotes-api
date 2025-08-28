@@ -1,2 +1,2 @@
 # wisdom-quotes-api
-demo microservice that returns wisdom quotes
+Dockerized FastAPI service that provides random wisdom quotes, as a demo.
