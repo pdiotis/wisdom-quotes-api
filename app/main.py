@@ -7,6 +7,7 @@ app = FastAPI(
     version=os.getenv("APP_VERSION", "0.1.0")
 )
 
+
 quotes = [
     {"author": "Socrates", "quote": "To know, is to know that you know nothing. That is the meaning of true knowledge."},
     {"author": "Aristotle", "quote": "Educating the mind without educating the heart is no education at all."},
