@@ -11,7 +11,7 @@ quotes = [
     {"author": "Socrates", "quote": "To know, is to know that you know nothing. That is the meaning of true knowledge."},
     {"author": "Aristotle", "quote": "Educating the mind without educating the heart is no education at all."},
     {"author": "Albert Einstein", "quote": "Life is like riding a bicycle. To keep your balance you must keep moving."},
-    {"author": "Confucius", "quote": "It does not matter how slowly you go as long as you do not stop."}
+    {"author": "Confucius", "quote": "It does not matter how slowly you go as long as you do not stop."},
     {"author": "Plato", "quote": "We can easily forgive a child who is afraid of the dark; the real tragedy of life is when men are afraid of the light."},
     {"author": "Confucius", "quote": "Our greatest glory is not in never falling, but in rising every time we fall."},
     {"author": "Lao Tzu", "quote": "The journey of a thousand miles begins with a single step."},
