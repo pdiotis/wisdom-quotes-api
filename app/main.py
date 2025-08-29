@@ -24,7 +24,7 @@ quotes = [
     {"author": "Friedrich Nietzsche", "quote": "He who has a why to live for can bear almost any how."},
     {"author": "Helen Keller", "quote": "The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart."},
     {"author": "Seneca", "quote": "Every new beginning comes from some other beginning's end."},
-    {"author": "Ralph Waldo Emerson", "quote": "What lies behind us and what lies before us are tiny matters compared to what lies within us."},
+    {"author": "Ralph Waldo Emerson", "quote": "What lies behind us and what lies before us are tiny matters compared to what lies within us."}
 ]
 motivational_quotes = [
     {"author": "Winston Churchill", "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts."},
