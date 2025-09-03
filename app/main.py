@@ -27,6 +27,7 @@ quotes = [
     {"author": "Seneca", "quote": "Every new beginning comes from some other beginning's end."},
     {"author": "Ralph Waldo Emerson", "quote": "What lies behind us and what lies before us are tiny matters compared to what lies within us."}
 ]
+
 motivational_quotes = [
     {"author": "Winston Churchill", "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts."},
     {"author": "Winston Churchill", "quote": "The pessimist sees difficulty in every opportunity. The optimist sees opportunity in every difficulty."},
@@ -59,6 +60,8 @@ motivational_quotes = [
     {"author": "Vince Lombardi", "quote": "Perfection is not attainable, but if we chase perfection we can catch excellence."},
     {"author": "Eleanor Roosevelt", "quote": "No one can make you feel inferior without your consent."}
 ]
+
+
 @app.get("/")
 def root():
     return {"message": "Welcome to a demo Wisdom Quotes API"}
